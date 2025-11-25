@@ -9,3 +9,18 @@
 * git reset
 * git log
 * git diff
+*Текст курсивом*
+<https://skillbox.ru/media/code/>
+Функция `print (x)` выводит содержимое переменной ```x```.
+
+```
+#include <stdio.h>
+int main() {
+   printf("Hello, World!");
+   return 0;
+}
+```
+
+	let x = 12;
+	let y = 6;
+	console.log(x + y);
